@@ -1,2 +1,5 @@
 # Lead-Generation
-The primary objective of this lead generation project is to identify and attract potential customers interested in our products/services and convert them into qualified leads for our sales team.
+🎯 Identify potential customers interested in products/services.
+📢 Attract potential customers to our offerings.
+🌟 Convert potential customers into qualified leads.
+💼 Assist the sales team in closing deals.
